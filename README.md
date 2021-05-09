@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmanAP
+- 👋 Hi, I’m @Aman Porwal
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning c/c++, web programming
 - 💞️ I’m looking to collaborate on any project
